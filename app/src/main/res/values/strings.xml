@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Secure Application</string>
+    <string name="safely_stored_key">1234567890</string>
+</resources>
